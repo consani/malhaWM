@@ -3,6 +3,9 @@ malhaWM
 
 Projeto que registra uma malha de trechos e encontra trechos de menor caminho entre dois pontos 
 
+# Pre-Requisitos
+- Maven
+- Java 7
 
 # Resumo dos servicos presentes
 
@@ -45,3 +48,8 @@ Projeto que registra uma malha de trechos e encontra trechos de menor caminho en
 # Outras informacoes
 
 - Documentacao do servico e classes do sistema estao na pasta ./doc
+- Para teste de execução foi utilizado o SOAPUI 
+
+# Próximos passos
+- Incluir no projeto uma aplicação cliente para utilizar o webservice disponibilizado 
+- Aumentar a cobertura de testes incluindo malhas maiores e mais complexas
