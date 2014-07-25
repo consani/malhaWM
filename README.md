@@ -37,7 +37,9 @@ Projeto que registra uma malha de trechos e encontra trechos de menor caminho en
 	mvn exec:java -Dexec.mainClass="nom.consani.malha.service.Publicador"
 
 	Acesso ao servico e suas informacoes:
+		
 		http://localhost:8080/WS/MalhaService?wsdl
+		
 		http://localhost:8080/WS/MalhaService?xsd=1
 
 # Outras informacoes
