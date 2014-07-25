@@ -3,11 +3,6 @@ malhaWM
 
 Projeto que registra uma malha de trechos e encontra trechos de menor caminho entre dois pontos 
 
-# Pre-Requisito
-
-Maven deve estar instalado
-
-
 
 # Resumo dos servicos presentes
 
